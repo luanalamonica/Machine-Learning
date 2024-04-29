@@ -1,1 +1,1 @@
-Modelo de segmentação de clientes para área de marketing com python
+Modelo de segmentação de clientes para área de marketing com Python.
