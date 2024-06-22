@@ -2,6 +2,10 @@ Ao realizar o curso da DSA sobre: Microsoft Power BI Para Business Intelligence 
 
 A seguir, a tela do projeto:
 
-Primeira tela: Dahsboard criado
+Primeira tela: Criando o machine learning em Python
 
-![1 tela](https://github.com/luanalamonica/Machine-Learning/blob/main/Dashboard%20com%20python.png?raw=true)
+![1 tela](https://github.com/luanalamonica/Machine-Learning/blob/main/primeira%20tela.png)
+
+Segunda tela: Dahsboard criado
+
+![2 tela](https://github.com/luanalamonica/Machine-Learning/blob/main/Dashboard%20com%20python.png?raw=true)
